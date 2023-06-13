@@ -1,0 +1,10 @@
+* multilang-documentation
+
+A drop-in replacement for cl:documentation with support for multiple languages.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/multilang-documentation.git   |
+| commit  | 59e798a  |
+| systems | multilang-documentation |
+|---------+-------------------------------------------|
+
