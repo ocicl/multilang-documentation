@@ -4,6 +4,6 @@ A drop-in replacement for cl:documentation with support for multiple languages.
 
 |---------+-------------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/multilang-documentation.git |
-| commit  | af0b914                                                     |
+| commit  | 3c2cd0b                                                     |
 | systems | multilang-documentation                                     |
 |---------+-------------------------------------------------------------|
